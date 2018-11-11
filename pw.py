@@ -19,6 +19,4 @@ if account in PASSWORDS:
 else:
     print(" Não existe conta ",account," cadastrada.")
 
-"""
-eu amo graziele
-"""
+
