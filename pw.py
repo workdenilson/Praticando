@@ -18,3 +18,7 @@ if account in PASSWORDS:
     print("Senha para ",account," copiada para área de transferência")
 else:
     print(" Não existe conta ",account," cadastrada.")
+
+"""
+eu amo graziele
+"""
