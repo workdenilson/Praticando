@@ -19,4 +19,6 @@ if account in PASSWORDS:
 else:
     print(" Não existe conta ",account," cadastrada.")
 
-
+"""
+O amor por graziele não tem fim
+"""
